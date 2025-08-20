@@ -1,0 +1,13 @@
+# Ignore generated platform code in language stats
+ios/** linguist-vendored
+android/** linguist-vendored
+windows/** linguist-vendored
+linux/** linguist-vendored
+macos/** linguist-vendored
+web/** linguist-vendored
+
+# Keep only Dart (and optional Java/Kotlin/Swift if you want)
+*.dart linguist-detectable=true
+*.java linguist-detectable=true
+*.kt linguist-detectable=true
+*.swift linguist-detectable=true
