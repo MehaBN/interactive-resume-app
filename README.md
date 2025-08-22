@@ -1,16 +1,27 @@
-# resume_app
+# 📄 Resume App
 
-A new Flutter project.
+A simple **Flutter Resume Application** that showcases personal details, skills, projects, and contact information in a clean and responsive UI.  
+This app is built using Flutter and Dart, and can be deployed on **Android, iOS, Web, and Desktop**.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🧑‍💻 Personal Information Section  
+- 🎯 Skills Section  
+- 📂 Projects Showcase  
+- 📞 Contact / Social Links  
+- 📱 Responsive design (works on Android, Web, Windows, etc.)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tech Stack
+
+- **Flutter** (UI framework)  
+- **Dart** (programming language)  
+- **Material Design** (UI components)  
+
+---
+
+
+
