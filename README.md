@@ -1,7 +1,7 @@
 # 📄 Interactive Resume App
 
 A simple **Flutter Resume Application** that showcases personal details, skills, projects, and contact information in a clean and responsive UI.  
-This app is built using Flutter and Dart, and can be deployed on **Android, iOS, Web, and Desktop!!**.
+This app is built using Flutter and Dart, and is on development to be deployed on **Android, iOS, Web, and Desktop!!**.
 
 ---
 
