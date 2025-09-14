@@ -23,6 +23,6 @@ This app is built using Flutter and Dart, and is on development to be deployed o
 
 ---
 
-on progress
+work on progress
 
 
